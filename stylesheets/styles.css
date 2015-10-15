@@ -163,7 +163,7 @@ h2 {
 
 h3 {
   font-size: 1.17em;
-  margin: 1em 0;
+  margin: 0 0;
 }
 
 h4 {
@@ -513,7 +513,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: white;
-  margin: 10px 10px 10px;
+  margin: 0 0px 0px;
 }
 
 p, ul, ol, table, pre, dl {
